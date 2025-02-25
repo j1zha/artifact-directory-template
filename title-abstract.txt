@@ -1,5 +1,12 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Comparing Deep Learning Models for time series prediction>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Stock price forecasting is a challenging task in financial markets, where volatility and randomness introduce high uncertainty. Traditional models like Long Short-Term Memory
+(LSTM) have been widely used for time series forecasting due to their ability to capture temporal dependencies. However, recent advancements in deep learning, such as transformerbased architectures and probabilistic forecasting models, have introduced more sophisticated methods like Lag-Llama and Time Series Transformer (TST), which can better handle
+long-range dependencies and capture uncertainty in predictions.
+This study aims to compare the effectiveness of LSTM, Lag-Llama, and Time Series Transformer (TST) in predicting NVIDIA (NVDA) stock prices. We evaluate the models based on
+their ability to predict future stock prices and measure their performance using Root Mean
+Squared Error (RMSE) for deterministic forecasts and Continuous Ranked Probability Score
+(CRPS) for probabilistic forecasts. Through this comparison, we assess which model is more
+suitable for short-term stock price forecasting and uncertainty quantification.>
